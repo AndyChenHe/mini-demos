@@ -1,3 +1,5 @@
+# This is the complete file, so I just looked at these codes
+
 # Student sentence analysis - look at sentiments of students' sentences
 
 # install.packages('syuzhet')

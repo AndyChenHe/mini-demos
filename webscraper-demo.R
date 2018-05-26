@@ -1,3 +1,5 @@
+# This is the complete file, so I just looked at these codes
+
 ## Let's make a webscraper!
 ## Sources:
 ##   https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/

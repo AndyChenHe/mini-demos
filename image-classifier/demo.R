@@ -5,6 +5,7 @@ devtools::install_github("rstudio/keras")
 # To install both the core Keras library as well as the TensorFlow backend use the install_keras() function:
 library(keras)
 install_keras()
+# This is the complete file, so I just looked at these codes
 
 # Load in a pretrained model: Using Inception V3 with ImageNet weights
 model <- application_inception_v3(weights = "imagenet")

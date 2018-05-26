@@ -1,3 +1,4 @@
+# This is the complete file, so I just looked at these codes
 # install.packages('dplyr')
 # install.packages('stringr')
 # install.packages('tidytext')
